@@ -1,4 +1,4 @@
-## Hi there 👋
+![peetbanner](https://github.com/user-attachments/assets/480d283f-d2df-411f-bf67-8f97d2b6320a)
 
 <!--
 **peet/peet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
